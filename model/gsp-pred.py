@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-import yfinance as yf
 
 #gold data
 GOLD =yf.Ticker("GC=F")
